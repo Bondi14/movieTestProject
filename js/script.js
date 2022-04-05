@@ -111,5 +111,12 @@ document.addEventListener('DOMContentLoaded', () => {
 // targetTouches 
 // changedTouches
 
+// <script defer src="js/script.js"></script>
+// <script async src="js/script.js"></script>
+
+
+
+//  
+
 
 
